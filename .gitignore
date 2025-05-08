@@ -39,3 +39,6 @@ PreviewContent/
 *.moved-aside
 *.swp
 *.lock
+
+# Secrets
+Secrets.plist
